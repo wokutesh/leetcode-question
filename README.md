@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/wokutesh/leetcode-question/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/wokutesh/leetcode-question/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/wokutesh/leetcode-question/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/wokutesh/leetcode-question/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/wokutesh/leetcode-question/tree/master/0012-integer-to-roman) |
 | [2556-convert-the-temperature](https://github.com/wokutesh/leetcode-question/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/wokutesh/leetcode-question/tree/master/2812-find-the-maximum-achievable-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/wokutesh/leetcode-question/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
