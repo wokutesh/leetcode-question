@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wokutesh/leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/wokutesh/leetcode-question/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wokutesh/leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/wokutesh/leetcode-question/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/wokutesh/leetcode-question/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/wokutesh/leetcode-question/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
 | [2556-convert-the-temperature](https://github.com/wokutesh/leetcode-question/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/wokutesh/leetcode-question/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/wokutesh/leetcode-question/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
