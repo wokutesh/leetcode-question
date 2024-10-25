@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/wokutesh/leetcode-question/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/wokutesh/leetcode-question/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/wokutesh/leetcode-question/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/wokutesh/leetcode-question/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -101,5 +102,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/wokutesh/leetcode-question/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/wokutesh/leetcode-question/tree/master/1786-count-the-number-of-consistent-strings) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/wokutesh/leetcode-question/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
