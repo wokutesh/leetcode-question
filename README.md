@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/wokutesh/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/wokutesh/leetcode-question/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/wokutesh/leetcode-question/tree/master/1580-shuffle-the-array) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/wokutesh/leetcode-question/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/wokutesh/leetcode-question/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/wokutesh/leetcode-question/tree/master/1791-richest-customer-wealth) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wokutesh/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wokutesh/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Sorting
+|  |
+| ------- |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/wokutesh/leetcode-question/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 <!---LeetCode Topics End-->
