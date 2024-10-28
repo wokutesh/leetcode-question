@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2714-left-and-right-sum-differences](https://github.com/wokutesh/leetcode-question/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/wokutesh/leetcode-question/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/wokutesh/leetcode-question/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/wokutesh/leetcode-question/tree/master/3194-find-words-containing-character) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/wokutesh/leetcode-question/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/wokutesh/leetcode-question/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/wokutesh/leetcode-question/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wokutesh/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/wokutesh/leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/wokutesh/leetcode-question/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Enumeration
 |  |
 | ------- |
