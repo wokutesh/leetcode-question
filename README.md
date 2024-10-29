@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/wokutesh/leetcode-question/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wokutesh/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wokutesh/leetcode-question/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/wokutesh/leetcode-question/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/wokutesh/leetcode-question/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/wokutesh/leetcode-question/tree/master/2556-convert-the-temperature) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/wokutesh/leetcode-question/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wokutesh/leetcode-question/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/wokutesh/leetcode-question/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wokutesh/leetcode-question/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Prefix Sum
 |  |
 | ------- |
