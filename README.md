@@ -144,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/wokutesh/leetcode-question/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/wokutesh/leetcode-question/tree/master/2714-left-and-right-sum-differences) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/wokutesh/leetcode-question/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
