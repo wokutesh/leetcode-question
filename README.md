@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/wokutesh/leetcode-question/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/1610-xor-operation-in-an-array) |
+| [1806-count-of-matches-in-tournament](https://github.com/wokutesh/leetcode-question/tree/master/1806-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wokutesh/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wokutesh/leetcode-question/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/wokutesh/leetcode-question/tree/master/2383-add-two-integers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/wokutesh/leetcode-question/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/wokutesh/leetcode-question/tree/master/1708-design-parking-system) |
+| [1806-count-of-matches-in-tournament](https://github.com/wokutesh/leetcode-question/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/wokutesh/leetcode-question/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/wokutesh/leetcode-question/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/wokutesh/leetcode-question/tree/master/2137-final-value-of-variable-after-performing-operations) |
