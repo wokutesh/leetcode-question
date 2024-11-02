@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/wokutesh/leetcode-question/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/wokutesh/leetcode-question/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/wokutesh/leetcode-question/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3371-harshad-number](https://github.com/wokutesh/leetcode-question/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/wokutesh/leetcode-question/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/wokutesh/leetcode-question/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3567-convert-date-to-binary](https://github.com/wokutesh/leetcode-question/tree/master/3567-convert-date-to-binary) |
