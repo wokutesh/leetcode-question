@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/wokutesh/leetcode-question/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/wokutesh/leetcode-question/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/wokutesh/leetcode-question/tree/master/1651-shuffle-string) |
+| [1677-matrix-diagonal-sum](https://github.com/wokutesh/leetcode-question/tree/master/1677-matrix-diagonal-sum) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/wokutesh/leetcode-question/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/1752-arithmetic-subarrays) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/wokutesh/leetcode-question/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1677-matrix-diagonal-sum](https://github.com/wokutesh/leetcode-question/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/wokutesh/leetcode-question/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/wokutesh/leetcode-question/tree/master/2631-sort-the-students-by-their-kth-score) |
