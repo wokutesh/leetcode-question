@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/wokutesh/leetcode-question/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/wokutesh/leetcode-question/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/wokutesh/leetcode-question/tree/master/3412-permutation-difference-between-two-strings) |
+| [3533-snake-in-matrix](https://github.com/wokutesh/leetcode-question/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/wokutesh/leetcode-question/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/wokutesh/leetcode-question/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/wokutesh/leetcode-question/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/wokutesh/leetcode-question/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3533-snake-in-matrix](https://github.com/wokutesh/leetcode-question/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/wokutesh/leetcode-question/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/wokutesh/leetcode-question/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/wokutesh/leetcode-question/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/wokutesh/leetcode-question/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/wokutesh/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2886-faulty-keyboard](https://github.com/wokutesh/leetcode-question/tree/master/2886-faulty-keyboard) |
+| [3533-snake-in-matrix](https://github.com/wokutesh/leetcode-question/tree/master/3533-snake-in-matrix) |
 ## Linked List
 |  |
 | ------- |
