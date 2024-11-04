@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/wokutesh/leetcode-question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/wokutesh/leetcode-question/tree/master/0782-jewels-and-stones) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/wokutesh/leetcode-question/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1752-arithmetic-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/1752-arithmetic-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/wokutesh/leetcode-question/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/wokutesh/leetcode-question/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/wokutesh/leetcode-question/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/wokutesh/leetcode-question/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/wokutesh/leetcode-question/tree/master/1205-defanging-an-ip-address) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/wokutesh/leetcode-question/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/wokutesh/leetcode-question/tree/master/1651-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/wokutesh/leetcode-question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/wokutesh/leetcode-question/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/wokutesh/leetcode-question/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1708-design-parking-system](https://github.com/wokutesh/leetcode-question/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/wokutesh/leetcode-question/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/wokutesh/leetcode-question/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
