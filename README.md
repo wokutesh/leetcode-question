@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/wokutesh/leetcode-question/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2401-count-asterisks](https://github.com/wokutesh/leetcode-question/tree/master/2401-count-asterisks) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/wokutesh/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2886-faulty-keyboard](https://github.com/wokutesh/leetcode-question/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/wokutesh/leetcode-question/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/wokutesh/leetcode-question/tree/master/3194-find-words-containing-character) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/wokutesh/leetcode-question/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/wokutesh/leetcode-question/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/wokutesh/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/wokutesh/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/wokutesh/leetcode-question/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/wokutesh/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/wokutesh/leetcode-question/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wokutesh/leetcode-question/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/wokutesh/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Matrix
 |  |
 | ------- |
