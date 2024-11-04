@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/wokutesh/leetcode-question/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/wokutesh/leetcode-question/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/wokutesh/leetcode-question/tree/master/3533-snake-in-matrix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/wokutesh/leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/wokutesh/leetcode-question/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/wokutesh/leetcode-question/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/wokutesh/leetcode-question/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/wokutesh/leetcode-question/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/wokutesh/leetcode-question/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/wokutesh/leetcode-question/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/wokutesh/leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/wokutesh/leetcode-question/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/wokutesh/leetcode-question/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/wokutesh/leetcode-question/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/wokutesh/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2886-faulty-keyboard](https://github.com/wokutesh/leetcode-question/tree/master/2886-faulty-keyboard) |
 | [3533-snake-in-matrix](https://github.com/wokutesh/leetcode-question/tree/master/3533-snake-in-matrix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/wokutesh/leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/wokutesh/leetcode-question/tree/master/1395-minimum-time-visiting-all-points) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/wokutesh/leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
