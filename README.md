@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/wokutesh/leetcode-question/tree/master/3412-permutation-difference-between-two-strings) |
 | [3533-snake-in-matrix](https://github.com/wokutesh/leetcode-question/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/wokutesh/leetcode-question/tree/master/3567-convert-date-to-binary) |
+| [3636-check-balanced-string](https://github.com/wokutesh/leetcode-question/tree/master/3636-check-balanced-string) |
 ## Sliding Window
 |  |
 | ------- |
