@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/wokutesh/leetcode-question/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/wokutesh/leetcode-question/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/wokutesh/leetcode-question/tree/master/3412-permutation-difference-between-two-strings) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/wokutesh/leetcode-question/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/wokutesh/leetcode-question/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/wokutesh/leetcode-question/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/wokutesh/leetcode-question/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/wokutesh/leetcode-question/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/wokutesh/leetcode-question/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/wokutesh/leetcode-question/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/wokutesh/leetcode-question/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wokutesh/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/wokutesh/leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/wokutesh/leetcode-question/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Enumeration
 |  |
 | ------- |
