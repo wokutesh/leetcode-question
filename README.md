@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/wokutesh/leetcode-question/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/wokutesh/leetcode-question/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/wokutesh/leetcode-question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/wokutesh/leetcode-question/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/wokutesh/leetcode-question/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/wokutesh/leetcode-question/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/wokutesh/leetcode-question/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/wokutesh/leetcode-question/tree/master/3194-find-words-containing-character) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/wokutesh/leetcode-question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-number-of-changing-keys](https://github.com/wokutesh/leetcode-question/tree/master/3312-number-of-changing-keys) |
 | [3412-permutation-difference-between-two-strings](https://github.com/wokutesh/leetcode-question/tree/master/3412-permutation-difference-between-two-strings) |
 | [3533-snake-in-matrix](https://github.com/wokutesh/leetcode-question/tree/master/3533-snake-in-matrix) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wokutesh/leetcode-question/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/wokutesh/leetcode-question/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/wokutesh/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/wokutesh/leetcode-question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/wokutesh/leetcode-question/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/wokutesh/leetcode-question/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/wokutesh/leetcode-question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/wokutesh/leetcode-question/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/wokutesh/leetcode-question/tree/master/2887-sort-vowels-in-a-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/wokutesh/leetcode-question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/wokutesh/leetcode-question/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Prefix Sum
 |  |
