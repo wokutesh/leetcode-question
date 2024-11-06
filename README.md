@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/wokutesh/leetcode-question/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/wokutesh/leetcode-question/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/wokutesh/leetcode-question/tree/master/3194-find-words-containing-character) |
+| [3312-number-of-changing-keys](https://github.com/wokutesh/leetcode-question/tree/master/3312-number-of-changing-keys) |
 | [3412-permutation-difference-between-two-strings](https://github.com/wokutesh/leetcode-question/tree/master/3412-permutation-difference-between-two-strings) |
 | [3533-snake-in-matrix](https://github.com/wokutesh/leetcode-question/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/wokutesh/leetcode-question/tree/master/3567-convert-date-to-binary) |
