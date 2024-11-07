@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/wokutesh/leetcode-question/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/wokutesh/leetcode-question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/wokutesh/leetcode-question/tree/master/1899-count-items-matching-a-rule) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/wokutesh/leetcode-question/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/wokutesh/leetcode-question/tree/master/1944-truncate-sentence) |
 | [1945-finding-the-users-active-minutes](https://github.com/wokutesh/leetcode-question/tree/master/1945-finding-the-users-active-minutes) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/wokutesh/leetcode-question/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1448-maximum-69-number](https://github.com/wokutesh/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/wokutesh/leetcode-question/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/wokutesh/leetcode-question/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/wokutesh/leetcode-question/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wokutesh/leetcode-question/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/wokutesh/leetcode-question/tree/master/2767-maximum-sum-with-exactly-k-elements) |
