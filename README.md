@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
 | [1241-decompress-run-length-encoded-list](https://github.com/wokutesh/leetcode-question/tree/master/1241-decompress-run-length-encoded-list) |
 | [1395-minimum-time-visiting-all-points](https://github.com/wokutesh/leetcode-question/tree/master/1395-minimum-time-visiting-all-points) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/wokutesh/leetcode-question/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/wokutesh/leetcode-question/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1552-build-an-array-with-stack-operations](https://github.com/wokutesh/leetcode-question/tree/master/1552-build-an-array-with-stack-operations) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/wokutesh/leetcode-question/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/wokutesh/leetcode-question/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/2454-largest-local-values-in-a-matrix) |
