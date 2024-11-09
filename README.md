@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/wokutesh/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/wokutesh/leetcode-question/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2639-separate-the-digits-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/wokutesh/leetcode-question/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/wokutesh/leetcode-question/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/wokutesh/leetcode-question/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/wokutesh/leetcode-question/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/wokutesh/leetcode-question/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/wokutesh/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2639-separate-the-digits-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/wokutesh/leetcode-question/tree/master/2886-faulty-keyboard) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/wokutesh/leetcode-question/tree/master/3220-count-tested-devices-after-test-operations) |
