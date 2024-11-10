@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/wokutesh/leetcode-question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
+| [0728-self-dividing-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0728-self-dividing-numbers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/wokutesh/leetcode-question/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/wokutesh/leetcode-question/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/wokutesh/leetcode-question/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
