@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/wokutesh/leetcode-question/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/wokutesh/leetcode-question/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/wokutesh/leetcode-question/tree/master/0782-jewels-and-stones) |
+| [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/wokutesh/leetcode-question/tree/master/1205-defanging-an-ip-address) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/wokutesh/leetcode-question/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/wokutesh/leetcode-question/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/wokutesh/leetcode-question/tree/master/0078-subsets) |
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
+| [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
 | [1241-decompress-run-length-encoded-list](https://github.com/wokutesh/leetcode-question/tree/master/1241-decompress-run-length-encoded-list) |
 | [1310-watering-plants](https://github.com/wokutesh/leetcode-question/tree/master/1310-watering-plants) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/wokutesh/leetcode-question/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/wokutesh/leetcode-question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/wokutesh/leetcode-question/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
+| [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
 | [1894-merge-strings-alternately](https://github.com/wokutesh/leetcode-question/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/wokutesh/leetcode-question/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/wokutesh/leetcode-question/tree/master/2128-reverse-prefix-of-word) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
+| [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
 | [1448-maximum-69-number](https://github.com/wokutesh/leetcode-question/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/wokutesh/leetcode-question/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/wokutesh/leetcode-question/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
