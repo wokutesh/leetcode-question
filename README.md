@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wokutesh/leetcode-question/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/wokutesh/leetcode-question/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/wokutesh/leetcode-question/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/wokutesh/leetcode-question/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/wokutesh/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/wokutesh/leetcode-question/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/wokutesh/leetcode-question/tree/master/2571-find-the-pivot-integer) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/wokutesh/leetcode-question/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wokutesh/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/wokutesh/leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2507-number-of-common-factors](https://github.com/wokutesh/leetcode-question/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/wokutesh/leetcode-question/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Counting
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/wokutesh/leetcode-question/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/wokutesh/leetcode-question/tree/master/2507-number-of-common-factors) |
 ## Combinatorics
 |  |
 | ------- |
