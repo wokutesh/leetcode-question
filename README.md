@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/1610-xor-operation-in-an-array) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/wokutesh/leetcode-question/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1761-count-sorted-vowel-strings](https://github.com/wokutesh/leetcode-question/tree/master/1761-count-sorted-vowel-strings) |
 | [1806-count-of-matches-in-tournament](https://github.com/wokutesh/leetcode-question/tree/master/1806-count-of-matches-in-tournament) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wokutesh/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2238-a-number-after-a-double-reversal](https://github.com/wokutesh/leetcode-question/tree/master/2238-a-number-after-a-double-reversal) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/wokutesh/leetcode-question/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wokutesh/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/wokutesh/leetcode-question/tree/master/0338-counting-bits) |
+| [1761-count-sorted-vowel-strings](https://github.com/wokutesh/leetcode-question/tree/master/1761-count-sorted-vowel-strings) |
 ## Monotonic Stack
 |  |
 | ------- |
