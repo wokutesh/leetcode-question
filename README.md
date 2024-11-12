@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/wokutesh/leetcode-question/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1945-finding-the-users-active-minutes](https://github.com/wokutesh/leetcode-question/tree/master/1945-finding-the-users-active-minutes) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/wokutesh/leetcode-question/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/wokutesh/leetcode-question/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/wokutesh/leetcode-question/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/wokutesh/leetcode-question/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/wokutesh/leetcode-question/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/wokutesh/leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/wokutesh/leetcode-question/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/wokutesh/leetcode-question/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/wokutesh/leetcode-question/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/wokutesh/leetcode-question/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/wokutesh/leetcode-question/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/wokutesh/leetcode-question/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/wokutesh/leetcode-question/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/wokutesh/leetcode-question/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/wokutesh/leetcode-question/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/wokutesh/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
