@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/wokutesh/leetcode-question/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/wokutesh/leetcode-question/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2487-optimal-partition-of-string](https://github.com/wokutesh/leetcode-question/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/wokutesh/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2777-find-the-distinct-difference-array](https://github.com/wokutesh/leetcode-question/tree/master/2777-find-the-distinct-difference-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/wokutesh/leetcode-question/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/wokutesh/leetcode-question/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2401-count-asterisks](https://github.com/wokutesh/leetcode-question/tree/master/2401-count-asterisks) |
+| [2487-optimal-partition-of-string](https://github.com/wokutesh/leetcode-question/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/wokutesh/leetcode-question/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/wokutesh/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/wokutesh/leetcode-question/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/wokutesh/leetcode-question/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wokutesh/leetcode-question/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2487-optimal-partition-of-string](https://github.com/wokutesh/leetcode-question/tree/master/2487-optimal-partition-of-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/wokutesh/leetcode-question/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/wokutesh/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/wokutesh/leetcode-question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
