@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/wokutesh/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/wokutesh/leetcode-question/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/wokutesh/leetcode-question/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/wokutesh/leetcode-question/tree/master/0078-subsets) |
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/wokutesh/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/wokutesh/leetcode-question/tree/master/0035-search-insert-position) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
