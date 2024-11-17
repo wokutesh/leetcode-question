@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wokutesh/leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Array
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/wokutesh/leetcode-question/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/wokutesh/leetcode-question/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/wokutesh/leetcode-question/tree/master/1241-decompress-run-length-encoded-list) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/wokutesh/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/wokutesh/leetcode-question/tree/master/0035-search-insert-position) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1603-running-sum-of-1d-array](https://github.com/wokutesh/leetcode-question/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/wokutesh/leetcode-question/tree/master/1833-find-the-highest-altitude) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/wokutesh/leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting Sort
 |  |
@@ -444,5 +449,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/wokutesh/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
