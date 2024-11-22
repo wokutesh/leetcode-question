@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/wokutesh/leetcode-question/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/wokutesh/leetcode-question/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/wokutesh/leetcode-question/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/wokutesh/leetcode-question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/wokutesh/leetcode-question/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/wokutesh/leetcode-question/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/wokutesh/leetcode-question/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/wokutesh/leetcode-question/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/wokutesh/leetcode-question/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3227-find-missing-and-repeated-values](https://github.com/wokutesh/leetcode-question/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/wokutesh/leetcode-question/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/wokutesh/leetcode-question/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/wokutesh/leetcode-question/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/wokutesh/leetcode-question/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/wokutesh/leetcode-question/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/wokutesh/leetcode-question/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3227-find-missing-and-repeated-values](https://github.com/wokutesh/leetcode-question/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/wokutesh/leetcode-question/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/wokutesh/leetcode-question/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/wokutesh/leetcode-question/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/wokutesh/leetcode-question/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/wokutesh/leetcode-question/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3227-find-missing-and-repeated-values](https://github.com/wokutesh/leetcode-question/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
