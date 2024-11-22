@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/wokutesh/leetcode-question/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/wokutesh/leetcode-question/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2447-merge-similar-items](https://github.com/wokutesh/leetcode-question/tree/master/2447-merge-similar-items) |
 | [2487-optimal-partition-of-string](https://github.com/wokutesh/leetcode-question/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/wokutesh/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/wokutesh/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/wokutesh/leetcode-question/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2447-merge-similar-items](https://github.com/wokutesh/leetcode-question/tree/master/2447-merge-similar-items) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/wokutesh/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/wokutesh/leetcode-question/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/wokutesh/leetcode-question/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wokutesh/leetcode-question/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2447-merge-similar-items](https://github.com/wokutesh/leetcode-question/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/wokutesh/leetcode-question/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/wokutesh/leetcode-question/tree/master/2887-sort-vowels-in-a-string) |
@@ -477,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/wokutesh/leetcode-question/tree/master/2447-merge-similar-items) |
 <!---LeetCode Topics End-->
