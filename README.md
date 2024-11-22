@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/wokutesh/leetcode-question/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/wokutesh/leetcode-question/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/wokutesh/leetcode-question/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/wokutesh/leetcode-question/tree/master/0118-pascals-triangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/wokutesh/leetcode-question/tree/master/0682-baseball-game) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/wokutesh/leetcode-question/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/wokutesh/leetcode-question/tree/master/0338-counting-bits) |
 | [1761-count-sorted-vowel-strings](https://github.com/wokutesh/leetcode-question/tree/master/1761-count-sorted-vowel-strings) |
 ## Monotonic Stack
