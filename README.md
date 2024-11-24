@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/wokutesh/leetcode-question/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/wokutesh/leetcode-question/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/wokutesh/leetcode-question/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/wokutesh/leetcode-question/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/wokutesh/leetcode-question/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2447-merge-similar-items](https://github.com/wokutesh/leetcode-question/tree/master/2447-merge-similar-items) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/wokutesh/leetcode-question/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/wokutesh/leetcode-question/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/wokutesh/leetcode-question/tree/master/2128-reverse-prefix-of-word) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/wokutesh/leetcode-question/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/wokutesh/leetcode-question/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/wokutesh/leetcode-question/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/wokutesh/leetcode-question/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/wokutesh/leetcode-question/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/wokutesh/leetcode-question/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/wokutesh/leetcode-question/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/wokutesh/leetcode-question/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/wokutesh/leetcode-question/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/wokutesh/leetcode-question/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/wokutesh/leetcode-question/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/wokutesh/leetcode-question/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/wokutesh/leetcode-question/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/wokutesh/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/wokutesh/leetcode-question/tree/master/3220-count-tested-devices-after-test-operations) |
