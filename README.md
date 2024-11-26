@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/wokutesh/leetcode-question/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/wokutesh/leetcode-question/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/wokutesh/leetcode-question/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/wokutesh/leetcode-question/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/wokutesh/leetcode-question/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/wokutesh/leetcode-question/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/wokutesh/leetcode-question/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/wokutesh/leetcode-question/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/wokutesh/leetcode-question/tree/master/0981-delete-columns-to-make-sorted) |
+| [1044-find-common-characters](https://github.com/wokutesh/leetcode-question/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/wokutesh/leetcode-question/tree/master/1205-defanging-an-ip-address) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/wokutesh/leetcode-question/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1454-remove-palindromic-subsequences](https://github.com/wokutesh/leetcode-question/tree/master/1454-remove-palindromic-subsequences) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/wokutesh/leetcode-question/tree/master/0981-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/wokutesh/leetcode-question/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/wokutesh/leetcode-question/tree/master/1044-find-common-characters) |
 | [1241-decompress-run-length-encoded-list](https://github.com/wokutesh/leetcode-question/tree/master/1241-decompress-run-length-encoded-list) |
 | [1310-watering-plants](https://github.com/wokutesh/leetcode-question/tree/master/1310-watering-plants) |
 | [1319-unique-number-of-occurrences](https://github.com/wokutesh/leetcode-question/tree/master/1319-unique-number-of-occurrences) |
