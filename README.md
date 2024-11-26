@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/wokutesh/leetcode-question/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/wokutesh/leetcode-question/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/wokutesh/leetcode-question/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3199-distribute-candies-among-children-i](https://github.com/wokutesh/leetcode-question/tree/master/3199-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/wokutesh/leetcode-question/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/wokutesh/leetcode-question/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/wokutesh/leetcode-question/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/wokutesh/leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2507-number-of-common-factors](https://github.com/wokutesh/leetcode-question/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/wokutesh/leetcode-question/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3199-distribute-candies-among-children-i](https://github.com/wokutesh/leetcode-question/tree/master/3199-distribute-candies-among-children-i) |
 | [3221-find-the-peaks](https://github.com/wokutesh/leetcode-question/tree/master/3221-find-the-peaks) |
 ## Counting
 |  |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/wokutesh/leetcode-question/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wokutesh/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3199-distribute-candies-among-children-i](https://github.com/wokutesh/leetcode-question/tree/master/3199-distribute-candies-among-children-i) |
 ## Sorting
 |  |
 | ------- |
