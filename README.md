@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2777-find-the-distinct-difference-array](https://github.com/wokutesh/leetcode-question/tree/master/2777-find-the-distinct-difference-array) |
 | [2825-minimize-string-length](https://github.com/wokutesh/leetcode-question/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3034-points-that-intersect-with-cars](https://github.com/wokutesh/leetcode-question/tree/master/3034-points-that-intersect-with-cars) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/wokutesh/leetcode-question/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/wokutesh/leetcode-question/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/wokutesh/leetcode-question/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/wokutesh/leetcode-question/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/wokutesh/leetcode-question/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/wokutesh/leetcode-question/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3034-points-that-intersect-with-cars](https://github.com/wokutesh/leetcode-question/tree/master/3034-points-that-intersect-with-cars) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/wokutesh/leetcode-question/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/wokutesh/leetcode-question/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/wokutesh/leetcode-question/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2508-maximum-sum-of-an-hourglass](https://github.com/wokutesh/leetcode-question/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2571-find-the-pivot-integer](https://github.com/wokutesh/leetcode-question/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/wokutesh/leetcode-question/tree/master/2714-left-and-right-sum-differences) |
+| [3034-points-that-intersect-with-cars](https://github.com/wokutesh/leetcode-question/tree/master/3034-points-that-intersect-with-cars) |
 | [3311-ant-on-the-boundary](https://github.com/wokutesh/leetcode-question/tree/master/3311-ant-on-the-boundary) |
 ## Graph
 |  |
