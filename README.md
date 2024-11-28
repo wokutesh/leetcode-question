@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/wokutesh/leetcode-question/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2308-divide-array-into-equal-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/2427-first-letter-to-appear-twice) |
 | [2447-merge-similar-items](https://github.com/wokutesh/leetcode-question/tree/master/2447-merge-similar-items) |
 | [2487-optimal-partition-of-string](https://github.com/wokutesh/leetcode-question/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/wokutesh/leetcode-question/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2365-percentage-of-letter-in-string](https://github.com/wokutesh/leetcode-question/tree/master/2365-percentage-of-letter-in-string) |
 | [2401-count-asterisks](https://github.com/wokutesh/leetcode-question/tree/master/2401-count-asterisks) |
+| [2427-first-letter-to-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/wokutesh/leetcode-question/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/wokutesh/leetcode-question/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/wokutesh/leetcode-question/tree/master/2159-two-out-of-three) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/wokutesh/leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2308-divide-array-into-equal-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/2427-first-letter-to-appear-twice) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/wokutesh/leetcode-question/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/wokutesh/leetcode-question/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/wokutesh/leetcode-question/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2308-divide-array-into-equal-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/2427-first-letter-to-appear-twice) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/wokutesh/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/wokutesh/leetcode-question/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/wokutesh/leetcode-question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
