@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/wokutesh/leetcode-question/tree/master/0871-keys-and-rooms) |
 | [1916-find-center-of-star-graph](https://github.com/wokutesh/leetcode-question/tree/master/1916-find-center-of-star-graph) |
 ## Stack
 |  |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/wokutesh/leetcode-question/tree/master/0871-keys-and-rooms) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/wokutesh/leetcode-question/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Geometry
 |  |
@@ -575,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/wokutesh/leetcode-question/tree/master/0406-queue-reconstruction-by-height) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/wokutesh/leetcode-question/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
