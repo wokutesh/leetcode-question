@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/wokutesh/leetcode-question/tree/master/3227-find-missing-and-repeated-values) |
 | [3311-ant-on-the-boundary](https://github.com/wokutesh/leetcode-question/tree/master/3311-ant-on-the-boundary) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/wokutesh/leetcode-question/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/wokutesh/leetcode-question/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/wokutesh/leetcode-question/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/wokutesh/leetcode-question/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/wokutesh/leetcode-question/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/wokutesh/leetcode-question/tree/master/3199-distribute-candies-among-children-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/wokutesh/leetcode-question/tree/master/3227-find-missing-and-repeated-values) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/wokutesh/leetcode-question/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/wokutesh/leetcode-question/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/wokutesh/leetcode-question/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/wokutesh/leetcode-question/tree/master/3515-find-if-digit-game-can-be-won) |
