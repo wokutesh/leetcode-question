@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/wokutesh/leetcode-question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/wokutesh/leetcode-question/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/wokutesh/leetcode-question/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/wokutesh/leetcode-question/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/wokutesh/leetcode-question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/wokutesh/leetcode-question/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/wokutesh/leetcode-question/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/wokutesh/leetcode-question/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/wokutesh/leetcode-question/tree/master/0696-count-binary-substrings) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/wokutesh/leetcode-question/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/wokutesh/leetcode-question/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1708-design-parking-system](https://github.com/wokutesh/leetcode-question/tree/master/1708-design-parking-system) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/wokutesh/leetcode-question/tree/master/0406-queue-reconstruction-by-height) |
+| [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/wokutesh/leetcode-question/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/wokutesh/leetcode-question/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/wokutesh/leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting Sort
@@ -585,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/wokutesh/leetcode-question/tree/master/0871-keys-and-rooms) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
