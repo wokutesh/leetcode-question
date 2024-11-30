@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/wokutesh/leetcode-question/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/wokutesh/leetcode-question/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/wokutesh/leetcode-question/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/wokutesh/leetcode-question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/wokutesh/leetcode-question/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/wokutesh/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/wokutesh/leetcode-question/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/wokutesh/leetcode-question/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/wokutesh/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/wokutesh/leetcode-question/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/wokutesh/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/wokutesh/leetcode-question/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wokutesh/leetcode-question/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/wokutesh/leetcode-question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2487-optimal-partition-of-string](https://github.com/wokutesh/leetcode-question/tree/master/2487-optimal-partition-of-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/wokutesh/leetcode-question/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/wokutesh/leetcode-question/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/wokutesh/leetcode-question/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/wokutesh/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
