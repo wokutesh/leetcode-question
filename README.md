@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/wokutesh/leetcode-question/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/wokutesh/leetcode-question/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/wokutesh/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1803-average-waiting-time](https://github.com/wokutesh/leetcode-question/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/wokutesh/leetcode-question/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/wokutesh/leetcode-question/tree/master/1833-find-the-highest-altitude) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/wokutesh/leetcode-question/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/wokutesh/leetcode-question/tree/master/1552-build-an-array-with-stack-operations) |
 | [1708-design-parking-system](https://github.com/wokutesh/leetcode-question/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/wokutesh/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1803-average-waiting-time](https://github.com/wokutesh/leetcode-question/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/wokutesh/leetcode-question/tree/master/1806-count-of-matches-in-tournament) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/wokutesh/leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/wokutesh/leetcode-question/tree/master/2048-build-array-from-permutation) |
