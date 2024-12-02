@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/wokutesh/leetcode-question/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/wokutesh/leetcode-question/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/wokutesh/leetcode-question/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/wokutesh/leetcode-question/tree/master/1505-create-target-array-in-the-given-order) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/wokutesh/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/wokutesh/leetcode-question/tree/master/0035-search-insert-position) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/wokutesh/leetcode-question/tree/master/0898-transpose-matrix) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/wokutesh/leetcode-question/tree/master/1677-matrix-diagonal-sum) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/wokutesh/leetcode-question/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/wokutesh/leetcode-question/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/wokutesh/leetcode-question/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/1752-arithmetic-subarrays) |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/wokutesh/leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting Sort
 |  |
