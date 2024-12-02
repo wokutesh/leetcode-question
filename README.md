@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/wokutesh/leetcode-question/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2159-two-out-of-three](https://github.com/wokutesh/leetcode-question/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/wokutesh/leetcode-question/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/2427-first-letter-to-appear-twice) |
 | [2447-merge-similar-items](https://github.com/wokutesh/leetcode-question/tree/master/2447-merge-similar-items) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/wokutesh/leetcode-question/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/wokutesh/leetcode-question/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/wokutesh/leetcode-question/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/wokutesh/leetcode-question/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/wokutesh/leetcode-question/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/wokutesh/leetcode-question/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/wokutesh/leetcode-question/tree/master/2365-percentage-of-letter-in-string) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/wokutesh/leetcode-question/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/wokutesh/leetcode-question/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/wokutesh/leetcode-question/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/2427-first-letter-to-appear-twice) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/wokutesh/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
