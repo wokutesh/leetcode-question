@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/wokutesh/leetcode-question/tree/master/1505-create-target-array-in-the-given-order) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/wokutesh/leetcode-question/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/wokutesh/leetcode-question/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1552-build-an-array-with-stack-operations](https://github.com/wokutesh/leetcode-question/tree/master/1552-build-an-array-with-stack-operations) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/wokutesh/leetcode-question/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
 | [1448-maximum-69-number](https://github.com/wokutesh/leetcode-question/tree/master/1448-maximum-69-number) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/wokutesh/leetcode-question/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/wokutesh/leetcode-question/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1829-maximum-units-on-a-truck](https://github.com/wokutesh/leetcode-question/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/wokutesh/leetcode-question/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/wokutesh/leetcode-question/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/wokutesh/leetcode-question/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/wokutesh/leetcode-question/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/wokutesh/leetcode-question/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/1752-arithmetic-subarrays) |
