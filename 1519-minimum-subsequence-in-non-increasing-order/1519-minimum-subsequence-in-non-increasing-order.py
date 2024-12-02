@@ -6,6 +6,6 @@ class Solution:
             ans.append(nums[j])
             if sum(ans) > sum(nums[:j]):
                 break
-        reverse_sorted=sorted(ans,reverse=True)
-        return reverse_sorted
+        
+        return ans
         
