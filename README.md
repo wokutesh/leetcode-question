@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0386-lexicographical-numbers) |
 | [0871-keys-and-rooms](https://github.com/wokutesh/leetcode-question/tree/master/0871-keys-and-rooms) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/wokutesh/leetcode-question/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Geometry
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0386-lexicographical-numbers) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/wokutesh/leetcode-question/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Binary Indexed Tree
 |  |
