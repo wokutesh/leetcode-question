@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/wokutesh/leetcode-question/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/wokutesh/leetcode-question/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/wokutesh/leetcode-question/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/wokutesh/leetcode-question/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/wokutesh/leetcode-question/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/wokutesh/leetcode-question/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
