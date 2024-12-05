@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/wokutesh/leetcode-question/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/wokutesh/leetcode-question/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/wokutesh/leetcode-question/tree/master/0800-letter-case-permutation) |
+| [0841-shortest-distance-to-a-character](https://github.com/wokutesh/leetcode-question/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/wokutesh/leetcode-question/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/wokutesh/leetcode-question/tree/master/0981-delete-columns-to-make-sorted) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/wokutesh/leetcode-question/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/wokutesh/leetcode-question/tree/master/0682-baseball-game) |
+| [0841-shortest-distance-to-a-character](https://github.com/wokutesh/leetcode-question/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/wokutesh/leetcode-question/tree/master/0898-transpose-matrix) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/wokutesh/leetcode-question/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/wokutesh/leetcode-question/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/wokutesh/leetcode-question/tree/master/0696-count-binary-substrings) |
+| [0841-shortest-distance-to-a-character](https://github.com/wokutesh/leetcode-question/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
 | [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
 | [1454-remove-palindromic-subsequences](https://github.com/wokutesh/leetcode-question/tree/master/1454-remove-palindromic-subsequences) |
