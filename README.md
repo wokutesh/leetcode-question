@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/wokutesh/leetcode-question/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/wokutesh/leetcode-question/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1651-shuffle-string](https://github.com/wokutesh/leetcode-question/tree/master/1651-shuffle-string) |
+| [1720-crawler-log-folder](https://github.com/wokutesh/leetcode-question/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/wokutesh/leetcode-question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/wokutesh/leetcode-question/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/wokutesh/leetcode-question/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/wokutesh/leetcode-question/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/wokutesh/leetcode-question/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1720-crawler-log-folder](https://github.com/wokutesh/leetcode-question/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/wokutesh/leetcode-question/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/wokutesh/leetcode-question/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/1752-arithmetic-subarrays) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/wokutesh/leetcode-question/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/wokutesh/leetcode-question/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/wokutesh/leetcode-question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/wokutesh/leetcode-question/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/wokutesh/leetcode-question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/wokutesh/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/wokutesh/leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
