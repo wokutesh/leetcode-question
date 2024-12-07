@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/wokutesh/leetcode-question/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2639-separate-the-digits-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/wokutesh/leetcode-question/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/wokutesh/leetcode-question/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/wokutesh/leetcode-question/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/wokutesh/leetcode-question/tree/master/2737-row-with-maximum-ones) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/wokutesh/leetcode-question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/wokutesh/leetcode-question/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2571-find-the-pivot-integer](https://github.com/wokutesh/leetcode-question/tree/master/2571-find-the-pivot-integer) |
+| [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/wokutesh/leetcode-question/tree/master/2714-left-and-right-sum-differences) |
 | [3034-points-that-intersect-with-cars](https://github.com/wokutesh/leetcode-question/tree/master/3034-points-that-intersect-with-cars) |
 | [3311-ant-on-the-boundary](https://github.com/wokutesh/leetcode-question/tree/master/3311-ant-on-the-boundary) |
