@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/wokutesh/leetcode-question/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/wokutesh/leetcode-question/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/wokutesh/leetcode-question/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/wokutesh/leetcode-question/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/wokutesh/leetcode-question/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/wokutesh/leetcode-question/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/wokutesh/leetcode-question/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/wokutesh/leetcode-question/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/wokutesh/leetcode-question/tree/master/0696-count-binary-substrings) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/wokutesh/leetcode-question/tree/master/0118-pascals-triangle) |
 | [0406-queue-reconstruction-by-height](https://github.com/wokutesh/leetcode-question/tree/master/0406-queue-reconstruction-by-height) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/wokutesh/leetcode-question/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/wokutesh/leetcode-question/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/wokutesh/leetcode-question/tree/master/0682-baseball-game) |
