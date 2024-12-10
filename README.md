@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wokutesh/leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/wokutesh/leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/wokutesh/leetcode-question/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/wokutesh/leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/wokutesh/leetcode-question/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/wokutesh/leetcode-question/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
+| [0658-find-k-closest-elements](https://github.com/wokutesh/leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/wokutesh/leetcode-question/tree/master/0682-baseball-game) |
 | [0841-shortest-distance-to-a-character](https://github.com/wokutesh/leetcode-question/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/wokutesh/leetcode-question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/wokutesh/leetcode-question/tree/master/0035-search-insert-position) |
+| [0658-find-k-closest-elements](https://github.com/wokutesh/leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/wokutesh/leetcode-question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0344-reverse-string](https://github.com/wokutesh/leetcode-question/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/wokutesh/leetcode-question/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/wokutesh/leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/wokutesh/leetcode-question/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/wokutesh/leetcode-question/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/wokutesh/leetcode-question/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
+| [0658-find-k-closest-elements](https://github.com/wokutesh/leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/wokutesh/leetcode-question/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/wokutesh/leetcode-question/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -602,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/wokutesh/leetcode-question/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/wokutesh/leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/wokutesh/leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
