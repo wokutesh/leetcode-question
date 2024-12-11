@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/wokutesh/leetcode-question/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/wokutesh/leetcode-question/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/wokutesh/leetcode-question/tree/master/0807-custom-sort-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/wokutesh/leetcode-question/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/wokutesh/leetcode-question/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/wokutesh/leetcode-question/tree/master/1044-find-common-characters) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/wokutesh/leetcode-question/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/wokutesh/leetcode-question/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/wokutesh/leetcode-question/tree/master/0800-letter-case-permutation) |
+| [0807-custom-sort-string](https://github.com/wokutesh/leetcode-question/tree/master/0807-custom-sort-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/wokutesh/leetcode-question/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/wokutesh/leetcode-question/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/wokutesh/leetcode-question/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/wokutesh/leetcode-question/tree/master/0658-find-k-closest-elements) |
+| [0807-custom-sort-string](https://github.com/wokutesh/leetcode-question/tree/master/0807-custom-sort-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/wokutesh/leetcode-question/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/wokutesh/leetcode-question/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
