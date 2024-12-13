@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/wokutesh/leetcode-question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
+| [0342-power-of-four](https://github.com/wokutesh/leetcode-question/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0728-self-dividing-numbers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/wokutesh/leetcode-question/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/wokutesh/leetcode-question/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/wokutesh/leetcode-question/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/wokutesh/leetcode-question/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/wokutesh/leetcode-question/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/wokutesh/leetcode-question/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/wokutesh/leetcode-question/tree/master/0461-hamming-distance) |
 | [0800-letter-case-permutation](https://github.com/wokutesh/leetcode-question/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
@@ -681,4 +683,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/wokutesh/leetcode-question/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
