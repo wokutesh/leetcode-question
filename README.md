@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/wokutesh/leetcode-question/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/wokutesh/leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/wokutesh/leetcode-question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2868-continuous-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/2868-continuous-subarrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/wokutesh/leetcode-question/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Array
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2777-find-the-distinct-difference-array](https://github.com/wokutesh/leetcode-question/tree/master/2777-find-the-distinct-difference-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/wokutesh/leetcode-question/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2868-continuous-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/wokutesh/leetcode-question/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/wokutesh/leetcode-question/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/wokutesh/leetcode-question/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/wokutesh/leetcode-question/tree/master/1184-car-pooling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/wokutesh/leetcode-question/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/wokutesh/leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting Sort
 |  |
@@ -654,14 +657,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/wokutesh/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2868-continuous-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/wokutesh/leetcode-question/tree/master/2447-merge-similar-items) |
+| [2868-continuous-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/2868-continuous-subarrays) |
 ## Trie
 |  |
 | ------- |
