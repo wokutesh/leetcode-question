@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/wokutesh/leetcode-question/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/wokutesh/leetcode-question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/wokutesh/leetcode-question/tree/master/1899-count-items-matching-a-rule) |
+| [1917-maximum-average-pass-ratio](https://github.com/wokutesh/leetcode-question/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/wokutesh/leetcode-question/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/wokutesh/leetcode-question/tree/master/1944-truncate-sentence) |
 | [1945-finding-the-users-active-minutes](https://github.com/wokutesh/leetcode-question/tree/master/1945-finding-the-users-active-minutes) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/wokutesh/leetcode-question/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/wokutesh/leetcode-question/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1829-maximum-units-on-a-truck](https://github.com/wokutesh/leetcode-question/tree/master/1829-maximum-units-on-a-truck) |
+| [1917-maximum-average-pass-ratio](https://github.com/wokutesh/leetcode-question/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/wokutesh/leetcode-question/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/wokutesh/leetcode-question/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/wokutesh/leetcode-question/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1184-car-pooling](https://github.com/wokutesh/leetcode-question/tree/master/1184-car-pooling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1917-maximum-average-pass-ratio](https://github.com/wokutesh/leetcode-question/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/wokutesh/leetcode-question/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/wokutesh/leetcode-question/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/wokutesh/leetcode-question/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
