@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/wokutesh/leetcode-question/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/wokutesh/leetcode-question/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/wokutesh/leetcode-question/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/wokutesh/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/wokutesh/leetcode-question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/wokutesh/leetcode-question/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/2427-first-letter-to-appear-twice) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/wokutesh/leetcode-question/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2659-number-of-even-and-odd-bits](https://github.com/wokutesh/leetcode-question/tree/master/2659-number-of-even-and-odd-bits) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/wokutesh/leetcode-question/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/wokutesh/leetcode-question/tree/master/3193-maximum-strong-pair-xor-i) |
