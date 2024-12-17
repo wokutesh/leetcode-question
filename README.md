@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/wokutesh/leetcode-question/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/wokutesh/leetcode-question/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/wokutesh/leetcode-question/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -620,18 +621,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0145-binary-tree-postorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/wokutesh/leetcode-question/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/wokutesh/leetcode-question/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0145-binary-tree-postorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/wokutesh/leetcode-question/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/wokutesh/leetcode-question/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0386-lexicographical-numbers) |
 | [0871-keys-and-rooms](https://github.com/wokutesh/leetcode-question/tree/master/0871-keys-and-rooms) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/wokutesh/leetcode-question/tree/master/2416-evaluate-boolean-binary-tree) |
