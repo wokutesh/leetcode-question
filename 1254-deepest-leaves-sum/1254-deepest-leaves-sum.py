@@ -8,13 +8,13 @@ class Solution:
     def deepestLeavesSum(self, root: Optional[TreeNode]) -> int:
         if root is None:
             return []
-        queue=[root]
+        queue=deque([root])
         arr=[]
         while queue:
             arr=[]
             for _ in range(len(queue)):
 
-                curr=queue.pop(0)
+                curr=queue.popleft()
                 arr.append(curr.val)
                 if curr.left:
                     queue.append(curr.left)
