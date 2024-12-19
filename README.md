@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/wokutesh/leetcode-question/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0203-remove-linked-list-elements](https://github.com/wokutesh/leetcode-question/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/wokutesh/leetcode-question/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/wokutesh/leetcode-question/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/wokutesh/leetcode-question/tree/master/0908-middle-of-the-linked-list) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/wokutesh/leetcode-question/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/wokutesh/leetcode-question/tree/master/0342-power-of-four) |
 ## Brainteaser
 |  |
