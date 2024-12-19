@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/wokutesh/leetcode-question/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/wokutesh/leetcode-question/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/wokutesh/leetcode-question/tree/master/0807-custom-sort-string) |
+| [0822-unique-morse-code-words](https://github.com/wokutesh/leetcode-question/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/wokutesh/leetcode-question/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/wokutesh/leetcode-question/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/wokutesh/leetcode-question/tree/master/1044-find-common-characters) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/wokutesh/leetcode-question/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/wokutesh/leetcode-question/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/wokutesh/leetcode-question/tree/master/0807-custom-sort-string) |
+| [0822-unique-morse-code-words](https://github.com/wokutesh/leetcode-question/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/wokutesh/leetcode-question/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/wokutesh/leetcode-question/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/wokutesh/leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/wokutesh/leetcode-question/tree/master/0682-baseball-game) |
+| [0822-unique-morse-code-words](https://github.com/wokutesh/leetcode-question/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/wokutesh/leetcode-question/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
