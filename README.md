@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/wokutesh/leetcode-question/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/wokutesh/leetcode-question/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/wokutesh/leetcode-question/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/wokutesh/leetcode-question/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/wokutesh/leetcode-question/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/wokutesh/leetcode-question/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/wokutesh/leetcode-question/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/wokutesh/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/wokutesh/leetcode-question/tree/master/2481-strictly-palindromic-number) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/wokutesh/leetcode-question/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/wokutesh/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/wokutesh/leetcode-question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/wokutesh/leetcode-question/tree/master/2128-reverse-prefix-of-word) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/wokutesh/leetcode-question/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/wokutesh/leetcode-question/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
