@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/wokutesh/leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/wokutesh/leetcode-question/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/wokutesh/leetcode-question/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/wokutesh/leetcode-question/tree/master/2384-root-equals-sum-of-children) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/wokutesh/leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/wokutesh/leetcode-question/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/wokutesh/leetcode-question/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/wokutesh/leetcode-question/tree/master/2384-root-equals-sum-of-children) |
@@ -754,4 +756,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/wokutesh/leetcode-question/tree/master/2481-strictly-palindromic-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/wokutesh/leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
