@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/wokutesh/leetcode-question/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/wokutesh/leetcode-question/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/wokutesh/leetcode-question/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/wokutesh/leetcode-question/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/wokutesh/leetcode-question/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/wokutesh/leetcode-question/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/wokutesh/leetcode-question/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/wokutesh/leetcode-question/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/wokutesh/leetcode-question/tree/master/1044-find-common-characters) |
 | [1184-car-pooling](https://github.com/wokutesh/leetcode-question/tree/master/1184-car-pooling) |
+| [1217-relative-sort-array](https://github.com/wokutesh/leetcode-question/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/wokutesh/leetcode-question/tree/master/1241-decompress-run-length-encoded-list) |
 | [1310-watering-plants](https://github.com/wokutesh/leetcode-question/tree/master/1310-watering-plants) |
 | [1319-unique-number-of-occurrences](https://github.com/wokutesh/leetcode-question/tree/master/1319-unique-number-of-occurrences) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/wokutesh/leetcode-question/tree/master/0658-find-k-closest-elements) |
 | [0807-custom-sort-string](https://github.com/wokutesh/leetcode-question/tree/master/0807-custom-sort-string) |
 | [1184-car-pooling](https://github.com/wokutesh/leetcode-question/tree/master/1184-car-pooling) |
+| [1217-relative-sort-array](https://github.com/wokutesh/leetcode-question/tree/master/1217-relative-sort-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/wokutesh/leetcode-question/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/wokutesh/leetcode-question/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/wokutesh/leetcode-question/tree/master/0561-array-partition) |
+| [1217-relative-sort-array](https://github.com/wokutesh/leetcode-question/tree/master/1217-relative-sort-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/wokutesh/leetcode-question/tree/master/1961-maximum-ice-cream-bars) |
 ## Dynamic Programming
 |  |
