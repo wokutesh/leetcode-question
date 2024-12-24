@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/wokutesh/leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/wokutesh/leetcode-question/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/wokutesh/leetcode-question/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/wokutesh/leetcode-question/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/wokutesh/leetcode-question/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/wokutesh/leetcode-question/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/wokutesh/leetcode-question/tree/master/0783-search-in-a-binary-search-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/wokutesh/leetcode-question/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/wokutesh/leetcode-question/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/wokutesh/leetcode-question/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/wokutesh/leetcode-question/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/wokutesh/leetcode-question/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0871-keys-and-rooms](https://github.com/wokutesh/leetcode-question/tree/master/0871-keys-and-rooms) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/wokutesh/leetcode-question/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/wokutesh/leetcode-question/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/wokutesh/leetcode-question/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/wokutesh/leetcode-question/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/wokutesh/leetcode-question/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/wokutesh/leetcode-question/tree/master/0617-merge-two-binary-trees) |
 | [0871-keys-and-rooms](https://github.com/wokutesh/leetcode-question/tree/master/0871-keys-and-rooms) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/wokutesh/leetcode-question/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/wokutesh/leetcode-question/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/wokutesh/leetcode-question/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/wokutesh/leetcode-question/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
