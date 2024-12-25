@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/wokutesh/leetcode-question/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/wokutesh/leetcode-question/tree/master/0898-transpose-matrix) |
+| [0909-stone-game](https://github.com/wokutesh/leetcode-question/tree/master/0909-stone-game) |
 | [0979-di-string-match](https://github.com/wokutesh/leetcode-question/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/wokutesh/leetcode-question/tree/master/0981-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/wokutesh/leetcode-question/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
 | [0342-power-of-four](https://github.com/wokutesh/leetcode-question/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0728-self-dividing-numbers) |
+| [0909-stone-game](https://github.com/wokutesh/leetcode-question/tree/master/0909-stone-game) |
 | [1395-minimum-time-visiting-all-points](https://github.com/wokutesh/leetcode-question/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/wokutesh/leetcode-question/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/wokutesh/leetcode-question/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/wokutesh/leetcode-question/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/wokutesh/leetcode-question/tree/master/0647-palindromic-substrings) |
+| [0909-stone-game](https://github.com/wokutesh/leetcode-question/tree/master/0909-stone-game) |
 | [1761-count-sorted-vowel-strings](https://github.com/wokutesh/leetcode-question/tree/master/1761-count-sorted-vowel-strings) |
 ## Monotonic Stack
 |  |
@@ -810,4 +813,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/wokutesh/leetcode-question/tree/master/2121-find-if-path-exists-in-graph) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/wokutesh/leetcode-question/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
