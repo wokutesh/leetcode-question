@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/wokutesh/leetcode-question/tree/master/0981-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/wokutesh/leetcode-question/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/wokutesh/leetcode-question/tree/master/1044-find-common-characters) |
+| [1063-best-sightseeing-pair](https://github.com/wokutesh/leetcode-question/tree/master/1063-best-sightseeing-pair) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/wokutesh/leetcode-question/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1184-car-pooling](https://github.com/wokutesh/leetcode-question/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/wokutesh/leetcode-question/tree/master/1217-relative-sort-array) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/wokutesh/leetcode-question/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/wokutesh/leetcode-question/tree/master/0647-palindromic-substrings) |
 | [0909-stone-game](https://github.com/wokutesh/leetcode-question/tree/master/0909-stone-game) |
+| [1063-best-sightseeing-pair](https://github.com/wokutesh/leetcode-question/tree/master/1063-best-sightseeing-pair) |
 | [1761-count-sorted-vowel-strings](https://github.com/wokutesh/leetcode-question/tree/master/1761-count-sorted-vowel-strings) |
 ## Monotonic Stack
 |  |
