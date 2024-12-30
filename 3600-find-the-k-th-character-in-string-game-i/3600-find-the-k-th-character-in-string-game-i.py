@@ -5,12 +5,13 @@ class Solution:
         word='a'
         while len(word)<k:
             temp=''
-            for i in range(len(word)):
-                if word[i]=='z':
+            for i in word:
+                if i=='z':
                     temp+='a'
+                else:
 
-                idx=count_char.index(word[i])
-                temp+=count_char[idx+1]
+                    
+                    temp+=count_char[(count_char.index(i))+1]
 
             word+=temp
 
