@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/wokutesh/leetcode-question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/wokutesh/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/wokutesh/leetcode-question/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/wokutesh/leetcode-question/tree/master/0909-stone-game) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/wokutesh/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/wokutesh/leetcode-question/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/wokutesh/leetcode-question/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/wokutesh/leetcode-question/tree/master/0647-palindromic-substrings) |
@@ -830,4 +832,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/wokutesh/leetcode-question/tree/master/0909-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/wokutesh/leetcode-question/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
