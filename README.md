@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/wokutesh/leetcode-question/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/wokutesh/leetcode-question/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0728-self-dividing-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/wokutesh/leetcode-question/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0909-stone-game](https://github.com/wokutesh/leetcode-question/tree/master/0909-stone-game) |
 | [1395-minimum-time-visiting-all-points](https://github.com/wokutesh/leetcode-question/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/wokutesh/leetcode-question/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/wokutesh/leetcode-question/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/wokutesh/leetcode-question/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/wokutesh/leetcode-question/tree/master/0461-hamming-distance) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/wokutesh/leetcode-question/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/wokutesh/leetcode-question/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/wokutesh/leetcode-question/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/wokutesh/leetcode-question/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
