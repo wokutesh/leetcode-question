@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/2427-first-letter-to-appear-twice) |
 | [2447-merge-similar-items](https://github.com/wokutesh/leetcode-question/tree/master/2447-merge-similar-items) |
+| [2476-check-distances-between-same-letters](https://github.com/wokutesh/leetcode-question/tree/master/2476-check-distances-between-same-letters) |
 | [2487-optimal-partition-of-string](https://github.com/wokutesh/leetcode-question/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/wokutesh/leetcode-question/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/wokutesh/leetcode-question/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/wokutesh/leetcode-question/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/wokutesh/leetcode-question/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2476-check-distances-between-same-letters](https://github.com/wokutesh/leetcode-question/tree/master/2476-check-distances-between-same-letters) |
 | [2487-optimal-partition-of-string](https://github.com/wokutesh/leetcode-question/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/wokutesh/leetcode-question/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-merge-similar-items](https://github.com/wokutesh/leetcode-question/tree/master/2447-merge-similar-items) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/wokutesh/leetcode-question/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/wokutesh/leetcode-question/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2476-check-distances-between-same-letters](https://github.com/wokutesh/leetcode-question/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/wokutesh/leetcode-question/tree/master/2502-sort-the-people) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/wokutesh/leetcode-question/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/wokutesh/leetcode-question/tree/master/2519-find-the-original-array-of-prefix-xor) |
