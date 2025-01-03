@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/wokutesh/leetcode-question/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/wokutesh/leetcode-question/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2698-find-the-array-concatenation-value](https://github.com/wokutesh/leetcode-question/tree/master/2698-find-the-array-concatenation-value) |
 | [2714-left-and-right-sum-differences](https://github.com/wokutesh/leetcode-question/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/wokutesh/leetcode-question/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/wokutesh/leetcode-question/tree/master/2737-row-with-maximum-ones) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/wokutesh/leetcode-question/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/2639-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/wokutesh/leetcode-question/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2698-find-the-array-concatenation-value](https://github.com/wokutesh/leetcode-question/tree/master/2698-find-the-array-concatenation-value) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/wokutesh/leetcode-question/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/wokutesh/leetcode-question/tree/master/2886-faulty-keyboard) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/wokutesh/leetcode-question/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/wokutesh/leetcode-question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/wokutesh/leetcode-question/tree/master/2481-strictly-palindromic-number) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/wokutesh/leetcode-question/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2698-find-the-array-concatenation-value](https://github.com/wokutesh/leetcode-question/tree/master/2698-find-the-array-concatenation-value) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/wokutesh/leetcode-question/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/wokutesh/leetcode-question/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
