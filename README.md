@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/wokutesh/leetcode-question/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/wokutesh/leetcode-question/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/wokutesh/leetcode-question/tree/master/1899-count-items-matching-a-rule) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/wokutesh/leetcode-question/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/wokutesh/leetcode-question/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/wokutesh/leetcode-question/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/wokutesh/leetcode-question/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/wokutesh/leetcode-question/tree/master/1761-count-sorted-vowel-strings) |
 | [1806-count-of-matches-in-tournament](https://github.com/wokutesh/leetcode-question/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/wokutesh/leetcode-question/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/wokutesh/leetcode-question/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/wokutesh/leetcode-question/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/wokutesh/leetcode-question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/wokutesh/leetcode-question/tree/master/2106-find-greatest-common-divisor-of-array) |
