@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/wokutesh/leetcode-question/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/wokutesh/leetcode-question/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1651-shuffle-string](https://github.com/wokutesh/leetcode-question/tree/master/1651-shuffle-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/wokutesh/leetcode-question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/wokutesh/leetcode-question/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/wokutesh/leetcode-question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/wokutesh/leetcode-question/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/wokutesh/leetcode-question/tree/master/1310-watering-plants) |
 | [1505-create-target-array-in-the-given-order](https://github.com/wokutesh/leetcode-question/tree/master/1505-create-target-array-in-the-given-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/wokutesh/leetcode-question/tree/master/1552-build-an-array-with-stack-operations) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/wokutesh/leetcode-question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1708-design-parking-system](https://github.com/wokutesh/leetcode-question/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/wokutesh/leetcode-question/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/wokutesh/leetcode-question/tree/master/1803-average-waiting-time) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/wokutesh/leetcode-question/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/wokutesh/leetcode-question/tree/master/0342-power-of-four) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/wokutesh/leetcode-question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/wokutesh/leetcode-question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
