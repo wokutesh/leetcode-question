@@ -19,6 +19,6 @@ class Solution:
             cur = cur + "1" + inverted
            
     
-       
+        print(cur)
         return cur[k - 1]
             
