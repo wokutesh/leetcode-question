@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/wokutesh/leetcode-question/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/wokutesh/leetcode-question/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/wokutesh/leetcode-question/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/wokutesh/leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/wokutesh/leetcode-question/tree/master/3312-number-of-changing-keys) |
 | [3412-permutation-difference-between-two-strings](https://github.com/wokutesh/leetcode-question/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/wokutesh/leetcode-question/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/wokutesh/leetcode-question/tree/master/3221-find-the-peaks) |
 | [3227-find-missing-and-repeated-values](https://github.com/wokutesh/leetcode-question/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/wokutesh/leetcode-question/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/wokutesh/leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/wokutesh/leetcode-question/tree/master/3311-ant-on-the-boundary) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/wokutesh/leetcode-question/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/wokutesh/leetcode-question/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/wokutesh/leetcode-question/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/wokutesh/leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Queue
 |  |
 | ------- |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0386-lexicographical-numbers) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/wokutesh/leetcode-question/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/wokutesh/leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -877,4 +881,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/wokutesh/leetcode-question/tree/master/0070-climbing-stairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/wokutesh/leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/wokutesh/leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
