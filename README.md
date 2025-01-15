@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/wokutesh/leetcode-question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/wokutesh/leetcode-question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/0013-roman-to-integer) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/wokutesh/leetcode-question/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/wokutesh/leetcode-question/tree/master/0500-keyboard-row) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/wokutesh/leetcode-question/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/wokutesh/leetcode-question/tree/master/0260-single-number-iii) |
 | [0406-queue-reconstruction-by-height](https://github.com/wokutesh/leetcode-question/tree/master/0406-queue-reconstruction-by-height) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/wokutesh/leetcode-question/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/wokutesh/leetcode-question/tree/master/0506-relative-ranks) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/wokutesh/leetcode-question/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/wokutesh/leetcode-question/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/wokutesh/leetcode-question/tree/master/0342-power-of-four) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/wokutesh/leetcode-question/tree/master/0461-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/wokutesh/leetcode-question/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/wokutesh/leetcode-question/tree/master/0800-letter-case-permutation) |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/wokutesh/leetcode-question/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/wokutesh/leetcode-question/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/wokutesh/leetcode-question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Indexed Tree
