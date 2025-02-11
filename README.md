@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/wokutesh/leetcode-question/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/wokutesh/leetcode-question/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0909-stone-game](https://github.com/wokutesh/leetcode-question/tree/master/0909-stone-game) |
+| [1086-divisor-game](https://github.com/wokutesh/leetcode-question/tree/master/1086-divisor-game) |
 | [1395-minimum-time-visiting-all-points](https://github.com/wokutesh/leetcode-question/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/wokutesh/leetcode-question/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/wokutesh/leetcode-question/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/wokutesh/leetcode-question/tree/master/0647-palindromic-substrings) |
 | [0909-stone-game](https://github.com/wokutesh/leetcode-question/tree/master/0909-stone-game) |
 | [1063-best-sightseeing-pair](https://github.com/wokutesh/leetcode-question/tree/master/1063-best-sightseeing-pair) |
+| [1086-divisor-game](https://github.com/wokutesh/leetcode-question/tree/master/1086-divisor-game) |
 | [1761-count-sorted-vowel-strings](https://github.com/wokutesh/leetcode-question/tree/master/1761-count-sorted-vowel-strings) |
 ## Monotonic Stack
 |  |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/wokutesh/leetcode-question/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/wokutesh/leetcode-question/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search Tree
 |  |
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/wokutesh/leetcode-question/tree/master/0909-stone-game) |
+| [1086-divisor-game](https://github.com/wokutesh/leetcode-question/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
