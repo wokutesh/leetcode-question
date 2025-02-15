@@ -916,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0183-customers-who-never-order](https://github.com/wokutesh/leetcode-question/tree/master/0183-customers-who-never-order) |
 | [0627-swap-salary](https://github.com/wokutesh/leetcode-question/tree/master/0627-swap-salary) |
+| [1625-group-sold-products-by-the-date](https://github.com/wokutesh/leetcode-question/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/wokutesh/leetcode-question/tree/master/1734-bank-account-summary-ii) |
 | [1827-invalid-tweets](https://github.com/wokutesh/leetcode-question/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/wokutesh/leetcode-question/tree/master/1837-daily-leads-and-partners) |
