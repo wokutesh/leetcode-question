@@ -919,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/wokutesh/leetcode-question/tree/master/0577-employee-bonus) |
 | [0627-swap-salary](https://github.com/wokutesh/leetcode-question/tree/master/0627-swap-salary) |
 | [1258-article-views-i](https://github.com/wokutesh/leetcode-question/tree/master/1258-article-views-i) |
+| [1301-reformat-department-table](https://github.com/wokutesh/leetcode-question/tree/master/1301-reformat-department-table) |
 | [1625-group-sold-products-by-the-date](https://github.com/wokutesh/leetcode-question/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/wokutesh/leetcode-question/tree/master/1734-bank-account-summary-ii) |
 | [1827-invalid-tweets](https://github.com/wokutesh/leetcode-question/tree/master/1827-invalid-tweets) |
