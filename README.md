@@ -919,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/wokutesh/leetcode-question/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/wokutesh/leetcode-question/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/wokutesh/leetcode-question/tree/master/0577-employee-bonus) |
+| [0619-biggest-single-number](https://github.com/wokutesh/leetcode-question/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/wokutesh/leetcode-question/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/wokutesh/leetcode-question/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/wokutesh/leetcode-question/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
